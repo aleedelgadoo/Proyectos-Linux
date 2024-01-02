@@ -1,4 +1,4 @@
-# Proyecto 1
+# Proyecto 1 : Auditoria y Gestion de Usuarios
 1) Agregar un usuario al grupo Facilitadores.
 2) Agregar un usuario al grupo Expositores.
 3) Agregar un usuario al grupo Directivos.
